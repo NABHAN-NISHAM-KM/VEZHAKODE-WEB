@@ -1,0 +1,26 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+section {
+    height: 100vh;
+}
+
+/* Custom styles for improved aesthetics */
+.nav-link {
+    transition: color 0.3s ease;
+}
+
+footer {
+    background-color: #f8f9fa;
+}
